@@ -81,15 +81,7 @@ overtakes the MLP. Footprint: LG-HDT ~20 parameters (~0.5 KB) vs. Random Forest
 If you use this code, please cite the DCETIP 2026 paper and the ETFA 2025
 predecessor:
 
-```bibtex
-@inproceedings{rocha2026lghdt,
-  author    = {Rocha, Diogo and Pinto, Rui and Gon\c{c}alves, Gil},
-  title     = {A Physics-Driven Hybrid Digital Twin for Prognostics and
-               Health Management: a Landau--Ginzburg Approach},
-  booktitle = {Proc. Doctoral Conference on Energy Technologies and
-               Industrial Processes (DCETIP)},
-  year      = {2026}
-}
+
 
 @inproceedings{rocha2025etfa,
   author    = {Rocha, Diogo and Pinto, Rui and Gon\c{c}alves, Gil},
